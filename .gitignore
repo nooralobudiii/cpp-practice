@@ -2,3 +2,5 @@
 .vscode/
 *.out
 a.out
+*.dSYM/
+Mosh/01
