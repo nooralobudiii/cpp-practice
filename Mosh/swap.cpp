@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 int main() {
     int a = 1;
@@ -8,7 +9,7 @@ int main() {
     a = b;
     b = temp;
 
-    std::cout << b << std::endl;
+    cout << b << "\n";
     
     return 0;
 }
